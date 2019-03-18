@@ -1,1 +1,1 @@
-Android periodical earnig
+Android periodical learning
