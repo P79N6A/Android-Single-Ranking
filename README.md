@@ -1,1 +1,1 @@
-AndroidStudioProjects
+Android periodical learning
