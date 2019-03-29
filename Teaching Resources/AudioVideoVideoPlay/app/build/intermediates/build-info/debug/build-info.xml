@@ -2,13 +2,13 @@
 <instant-run
     abi="x86"
     api-level="23"
-    build-mode="COLD"
+    build-mode="FULL"
     density="560dpi"
     format="10"
     plugin-version="3.3.2"
-    timestamp="1553223393009"
+    timestamp="1553224612831"
     token="3649877174680195340"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,47 +23,77 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1553223355382"
+        timestamp="1553224612831"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
+            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\LA\AndroidStudioProjects\Teaching Resources\AudioVideoVideoPlay\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1553223393009"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
